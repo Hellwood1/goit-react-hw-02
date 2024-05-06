@@ -29,7 +29,7 @@ ul {
 }
 
 body {
-  margin: 0;
+  margin-left: 25px;
   min-width: 320px;
   min-height: 100vh;
 }
